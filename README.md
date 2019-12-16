@@ -1,16 +1,16 @@
 <파이썬을 이용한 컴퓨터 과학 입문>의 소스 코드입니다.
 
-북사이트 https://introcs.cs.princeton.edu/python/home/
-예제 소스 https://introcs.cs.princeton.edu/python/code/
-길벗 예제 소스 https://github.com/gilbutITbook/006793
+* 북사이트 https://introcs.cs.princeton.edu/python/home/
+* 예제 소스 https://introcs.cs.princeton.edu/python/code/
+* 길벗 예제 소스 https://github.com/gilbutITbook/006793
 
 
 이 책의 실습에는 다음 프로그램이 필요합니다.
 
-• 파이썬 3.x
-• NumPy
-• Pygame
-• 이 책의 전용 모듈
+* 파이썬 3.x
+* NumPy
+* Pygame
+* 이 책의 전용 모듈
 
 부록 D에 윈도, 리눅스, macOS에 따른 환경 구성이 설명되어 있습니다.
 윈도 환경에서는 python 명령어를 실행하면 설치된 파이썬 3.x 버전이 실행되지만, 리눅스와 macOS에서 python 명령어는 
@@ -30,5 +30,5 @@ introcs-python                  이 책의 예제 코드
 introcs-data.zip                이 책의 예제에 사용하는 데이터
 introcs-PartialSolutions.zip    연습문제 중 일부 해법
 
-•  이 책의 실습에 필요한 모듈은 introcs-1.0.zip을 설치하면 됩니다. 설치법과 모듈 목록에 대해서는 부록 D를 참조하세요.
-•  이 책의 예제는 장별로 분류되어 있지 않고, 주제별 파일명으로 되어 있습니다. 각 절의 프로그램 목록은 부록 D.1을 참조하세요.
+*  이 책의 실습에 필요한 모듈은 introcs-1.0.zip을 설치하면 됩니다. 설치법과 모듈 목록에 대해서는 부록 D를 참조하세요.
+*  이 책의 예제는 장별로 분류되어 있지 않고, 주제별 파일명으로 되어 있습니다. 각 절의 프로그램 목록은 부록 D.1을 참조하세요.
