@@ -1,0 +1,17 @@
+README
+color.py
+instream.py
+outstream.py
+picture.py
+setup.cfg
+setup.py
+stdarray.py
+stdaudio.py
+stddraw.py
+stdio.py
+stdrandom.py
+stdstats.py
+introcs.egg-info/PKG-INFO
+introcs.egg-info/SOURCES.txt
+introcs.egg-info/dependency_links.txt
+introcs.egg-info/top_level.txt
